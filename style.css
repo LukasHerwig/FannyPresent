@@ -11,7 +11,7 @@ html {
 }
 
 .top {
-  background-image: url("./images/ballonger.jpg");
+  background-image: url("FannyPresent/images/ballonger.jpg");
   height: 900px;
   width: 100%;
   background-size: cover;
@@ -71,7 +71,7 @@ html {
 }
 
 .gift {
-  background-image: url("./images/relax.jpg");
+  background-image: url("FannyPresent/images/relax.jpg");
   height: 900px;
   width: 100%;
   background-size: cover;
