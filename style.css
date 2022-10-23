@@ -1,0 +1,155 @@
+*,
+body {
+  margin: 0px;
+  margin-top: 0px;
+  padding: 0px;
+  font-family: "Poppins", sans-serif;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+.top {
+  background-image: url("./images/ballonger.jpg");
+  height: 900px;
+  width: 100%;
+  background-size: cover;
+}
+
+.grattis {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  text-align: center;
+  align-items: center;
+  height: 900px;
+}
+
+.grattis h1 {
+  font-size: 20px;
+  padding: 20px;
+  padding-bottom: 250px;
+  color: white;
+  text-shadow: 3px 2px 2px black;
+}
+
+.grattis span {
+  padding-bottom: 50px;
+  font-size: 50px;
+  color: white;
+}
+
+.content {
+  background-color: rgb(228, 213, 193);
+  height: 900px;
+  width: 100%;
+}
+
+.text {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+  height: 900px;
+}
+
+.text h2 {
+  font-size: 20px;
+  color: black;
+  padding: 50px;
+}
+
+.text span {
+  font-size: 50px;
+  color: black;
+  position: absolute;
+  top: 1700px;
+  left: 0;
+  right: 0;
+}
+
+.gift {
+  background-image: url("./images/relax.jpg");
+  height: 900px;
+  width: 100%;
+  background-size: cover;
+}
+
+.present {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+  height: 900px;
+}
+
+.present h3 {
+  font-size: 20px;
+  color: white;
+  padding: 50px;
+  text-shadow: 1px 1px 1px grey;
+}
+
+.present span {
+  font-size: 50px;
+  color: white;
+  position: absolute;
+  top: 2600px;
+  left: 0;
+  right: 0;
+}
+
+.pack {
+  background-color: rgb(228, 213, 193);
+  height: 900px;
+  width: 100%;
+}
+
+.packa {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+  height: 900px;
+}
+
+.packa h3 {
+  font-size: 17px;
+  color: black;
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
+.packa span {
+  font-size: 50px;
+  color: black;
+  position: absolute;
+  top: 3500px;
+  left: 0;
+  right: 0;
+}
+
+.reveal {
+  height: 900px;
+  width: 100%;
+}
+
+.avslöjande {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+  height: 900px;
+}
+
+.avslöjande img {
+  height: 200px;
+  border-radius: 45%;
+  justify-content: center;
+  align-content: center;
+}
